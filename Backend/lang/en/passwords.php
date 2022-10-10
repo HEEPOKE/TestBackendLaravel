@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'reset' => 'Your password has been reset!',
+    'reset' => 'รีเซ็ตรหัสผ่านสำเร็จ',
     'sent' => 'We have emailed your password reset link!',
     'throttled' => 'Please wait before retrying.',
     'token' => 'This password reset token is invalid.',
